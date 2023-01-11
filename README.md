@@ -11,6 +11,6 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
-Sou estudante de Ciência da Computação apaixonado pela tecnologia e programação.
+<br/>Sou estudante de Ciência da Computação apaixonado pela tecnologia e programação.
 
 <!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamdutraribeiro@gmail.com) -->
